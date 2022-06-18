@@ -5,7 +5,7 @@ public class LibZdrav
 
     public static string DejPozdrav()
     {
-        return "Pozdrav Verze 1";
+        return "Pozdrav Verze 2";
     }
 
 }
